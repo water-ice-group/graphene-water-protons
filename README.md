@@ -3,7 +3,6 @@
 This repository contains supplementary data supporting the findings of the paper:
 
 "Protons accumulate at the graphene-water interface" (Xavier R. Advincula, Kara D. Fong, Angelos Michaelides, Christoph Schran)
-[under revision]
 
 ## License
 The content of this repository is licensed under the CC-BY-SA-4.0 license. See the file `LICENSE` for details.
